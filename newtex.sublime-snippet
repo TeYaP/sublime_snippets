@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+\input{"/Users/sibou/Google_Drive/latex_source_directory/preamble"}
+%\graphicspath{{Illustrations/}} %address to graph folder
+%\lipsum[2-4]
+
+
+\begin{document}
+
+
+
+\newpage
+\bibliographystyle{chicago}
+\bibliography{/Users/sibou/Google_Drive/latex_source_directory/Bibliography_zotero}
+\end{document}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>newtex</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.tex.latex</scope>
+</snippet>
