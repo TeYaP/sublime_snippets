@@ -1,2 +1,3 @@
 # sublime_snippets
-Personal snippets for Latex, R, Python etc...
+The snippets should be saved in your Packages/User folder as follow:
+"name.sublime-snippet"
