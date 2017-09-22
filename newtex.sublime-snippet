@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-\input{"/Users/sibou/Google_Drive/latex_source_directory/preamble"}
-%\graphicspath{{Illustrations/}} %address to graph folder
+\input{"/User/Name/Drive/latex_source_directory/preamble"} % adress preamble
+%\graphicspath{{Illustrations/}} %address graph folder
 %\lipsum[2-4]
 
 
@@ -11,7 +11,7 @@
 
 \newpage
 \bibliographystyle{chicago}
-\bibliography{/Users/sibou/Google_Drive/latex_source_directory/Bibliography_zotero}
+\bibliography{/User/Name/Drive/latex_source_directory/Bibliography} % adress bibliography
 \end{document}
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
