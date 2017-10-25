@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+	graph save "${1:namegraph}.gph",  replace 
+	graph export "${1:namegraph}.png", replace
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>gsave</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.stata</scope>
+</snippet>
