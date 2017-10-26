@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-	graph save "${1:namegraph}.gph",  replace 
+	graph save "${1:namegraph}.gph", replace 
 	graph export "${1:namegraph}.png", replace
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
